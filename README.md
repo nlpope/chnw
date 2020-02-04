@@ -29,6 +29,7 @@ Visit http://www.chealthnet.com/
 
 * **Noah Pope** - *JavaScript, HTML & CSS code*
 * **Designmodo** - *Slides Framework* - (https://designmodo.com/slides/)
+* **Square** - *Online Booking* - (https://squareup.com/help/us/en/article/5355-set-up-online-booking-with-square-appointments)
 
 ## License
 

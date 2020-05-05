@@ -1,0 +1,24 @@
+{
+  "name": "CHNW",
+  "version": "1.0.0",
+  "description": "Complete Health Network official site",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d chnw"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlpope/nlpope.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://nlpope.github.io/chnw",
+  "bugs": {
+    "url": "https://github.com/nlpope/nlpope.github.io/issues"
+  },
+  "homepage": "https://github.com/nlpope/nlpope.github.io#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}

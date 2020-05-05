@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/nlpope/nlpope.github.io/issues"
   },
-  "homepage": "https://github.com/nlpope/nlpope.github.io#readme",
+ 
   "dependencies": {
     "gh-pages": "^2.2.0"
   }

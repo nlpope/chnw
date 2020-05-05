@@ -4,7 +4,7 @@
   "description": "Complete Health Network official site",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d chnw"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,6 @@
   "bugs": {
     "url": "https://github.com/nlpope/nlpope.github.io/issues"
   },
- 
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
